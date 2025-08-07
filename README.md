@@ -58,7 +58,7 @@ The EEG data were preprocessed into numerical features as follows:
 ## **Modeling and evaluation**
 
 ### **Neural Network (MLP)**  
-A shallow dense network (multi-layer perceptron) with regularization and droput was trained with early stopping to avoid overfitting.  
+A shallow dense network (multi-layer perceptron) with regularization and droput was trained using early stopping to avoid overfitting.  
 
 
 ### **Classical Machine Learning Models**  
@@ -105,4 +105,5 @@ Overall, the results suggest that more advanced feature engineering, temporal mo
 ---
 
 **Author of the notebook**  
+
 Michał Owsiak
